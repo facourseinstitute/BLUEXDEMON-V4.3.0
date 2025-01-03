@@ -31,10 +31,10 @@ global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
 global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
-global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
+global.syt = 'https://whatsapp.com/channel/0029VasdWbG4o7qH9y01ao3R'
+global.sgc = 'https://whatsapp.com/channel/0029VasdWbG4o7qH9y01ao3R'
+global.sig = 'https://whatsapp.com/channel/0029VasdWbG4o7qH9y01ao3R'
+global.web = 'https://whatsapp.com/channel/0029VasdWbG4o7qH9y01ao3R'
 //setbot
 global.botName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒" 
 global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
